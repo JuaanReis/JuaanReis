@@ -13,7 +13,8 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</div><br>
+  <img align="center" alt="shellscript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</div><br> 
 
 Tenho 16 anos e sou estudante autodidata de cibersegurança, com foco em segurança ofensiva, automação de testes e desenvolvimento de ferramentas para exploração de vulnerabilidades web. Me viro nos estudos por conta própria, sem estrutura de ponta, mas compenso com dedicação, curiosidade e muita mão na massa. Atuo principalmente no back-end e na lógica por trás dos sistemas, mas também mexo com front-end quando preciso, unindo funcionalidade com visual. Meu objetivo é evoluir no ramo da segurança digital e criar soluções próprias.
 
