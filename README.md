@@ -1,6 +1,6 @@
 ### Olá eu sou Juan 👍
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan._reis/)
 
 ![JuaanReis's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuaanReis&show_icons=true&theme=radical)
 
