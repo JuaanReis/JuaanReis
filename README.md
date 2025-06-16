@@ -1,21 +1,58 @@
-### Olá eu sou Juan 👍
+<h1 align="center">👋 E aí, eu sou o Juan</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juan._reis/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1309206929913937923)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-teixeira-dos-reis-4423b9338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<p align="center">
+  🧠 Autodidata em <strong>CyberSegurança</strong><br>
+  🔥 Especializado em <strong>Hacking ofensivo & automação</strong><br>
+  🛠️ Dev de ferramentas próprias pra explorar vulnerabilidades<br>
+  🧑‍💻 Vivendo na base da curiosidade, estudo e código sem parar<br>
+</p>
 
-![JuaanReis's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuaanReis&show_icons=true&theme=radical)
+---
 
-<div style="display: inline_block"> <br>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="shellscript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-</div><br> 
+<div align="center">
+  <a href="https://www.instagram.com/juan._reis/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/1309206929913937923" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/juan-teixeira-dos-reis-4423b9338" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
-Tenho 16 anos e sou estudante autodidata de cibersegurança, com foco em segurança ofensiva, automação de testes e desenvolvimento de ferramentas para exploração de vulnerabilidades web. Me viro nos estudos por conta própria, sem estrutura de ponta, mas compenso com dedicação, curiosidade e muita mão na massa. Atuo principalmente no back-end e na lógica por trás dos sistemas, mas também mexo com front-end quando preciso, unindo funcionalidade com visual. Meu objetivo é evoluir no ramo da segurança digital e criar soluções próprias.
+---
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuaanReis&show_icons=true&theme=radical&hide_border=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=compact&langs_count=7&theme=radical&hide_border=true">
+</div>
+
+---
+
+<h3 align="center">🚀 Stack que eu uso pra destruir e construir sistemas</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</p>
+
+---
+
+### 🧨 Sobre mim
+
+Tenho 16 anos e tô metido até o pescoço em códigos, exploits e terminal. Não tenho estrutura chique, mas tenho **vontade**, **dedicação** e uma porrada de ideia na cabeça.
+
+Faço ferramentas de segurança, automação de testes, APIs, CLI, script, o que tiver que fazer eu tento (talvez dê errado). Se for do back-end, então, aí é onde eu mais brinco. Mas se o front tiver cagado, eu dou um tapa também.
+
+Meu foco é **criar soluções fodas e úteis** pra comunidade de segurança ofensiva — e no futuro, abrir meu próprio negócio na área.
+
+---
+
+> 💬 *"Se não existe uma ferramenta que faça, eu crio. Se existe, eu melhoro."*
