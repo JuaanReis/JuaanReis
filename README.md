@@ -2,7 +2,6 @@
 
 <p align="center">
   🧠 Autodidata em <strong>CyberSegurança</strong><br>
-  🔥 Especializado em <strong>Hacking ofensivo & automação</strong><br>
   🛠️ Dev de ferramentas próprias pra explorar vulnerabilidades<br>
   🧑‍💻 Vivendo na base da curiosidade, estudo e código sem parar<br>
 </p>
