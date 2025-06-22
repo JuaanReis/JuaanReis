@@ -47,7 +47,7 @@
 
 Tenho 16 anos e tô metido até o pescoço em códigos, exploits e terminal. Não tenho estrutura chique, mas tenho **vontade**, **dedicação** e uma porrada de ideia na cabeça.
 
-Faço ferramentas de segurança, automação de testes, APIs, CLI, script, o que tiver que fazer eu tento (talvez dê errado). Se for do back-end, então, aí é onde eu mais brinco. Mas se o front tiver cagado, eu dou um tapa também.
+Faço ferramentas de segurança, automação de testes, CLI, script, o que tiver que fazer eu tento (talvez dê errado). Se for do back-end, então, aí é onde eu mais brinco. Mas se o front tiver cagado, eu dou um tapa também.
 
 Meu foco é **criar soluções fodas e úteis** pra comunidade de segurança ofensiva — e no futuro, abrir meu próprio negócio na área.
 
