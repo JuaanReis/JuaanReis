@@ -3,6 +3,7 @@
 <p align="center">
    Self-taught cybersecurity enthusiast and developer<br>
    Focused on building custom tools for vulnerability exploration<br>
+   Waiting for my laptop to explode
 </p>
 
 ---
