@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hey, I'm Juan</h1>
+<h1 align="center">I'm Juan</h1>
 
 <p align="center">
-  🧠 Self-taught in <strong>CyberSecurity</strong><br>
-  🛠️ Dev of custom tools to explore vulnerabilities<br>
-  🧑‍💻 Living off curiosity, non-stop learning, and code<br>
+   Self-taught in <strong>CyberSecurity</strong><br>
+   Dev of custom tools to explore vulnerabilities<br>
+   Living off curiosity, non-stop learning, and code<br>
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-<h3 align="center">🚀 Stack I use to break and build systems</h3>
+<h3 align="center"> Stack I use to break and build systems</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
@@ -45,7 +45,7 @@
 
 ---
 
-### 🧨 About me
+###  About me
 
 I'm 16 and knee-deep in code, exploits, and terminals. I don’t have fancy gear, but I’ve got **grit**, **drive**, and a head full of crazy ideas.
 
@@ -55,4 +55,4 @@ My goal is to **create badass and useful tools** for the offensive security comm
 
 ---
 
-> 💬 *"If there's no tool for it, I build one. If there is, I make it better."*
+>  *"If there's no tool for it, I build one. If there is, I make it better."*
