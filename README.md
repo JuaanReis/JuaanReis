@@ -1,9 +1,9 @@
-<h1 align="center">👋 E aí, eu sou o Juan</h1>
+<h1 align="center">👋 Hey, I'm Juan</h1>
 
 <p align="center">
-  🧠 Autodidata em <strong>CyberSegurança</strong><br>
-  🛠️ Dev de ferramentas próprias pra explorar vulnerabilidades<br>
-  🧑‍💻 Vivendo na base da curiosidade, estudo e código sem parar<br>
+  🧠 Self-taught in <strong>CyberSecurity</strong><br>
+  🛠️ Dev of custom tools to explore vulnerabilities<br>
+  🧑‍💻 Living off curiosity, non-stop learning, and code<br>
 </p>
 
 ---
@@ -29,7 +29,7 @@
 
 ---
 
-<h3 align="center">🚀 Stack que eu uso pra destruir e construir sistemas</h3>
+<h3 align="center">🚀 Stack I use to break and build systems</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
@@ -45,14 +45,14 @@
 
 ---
 
-### 🧨 Sobre mim
+### 🧨 About me
 
-Tenho 16 anos e tô metido até o pescoço em códigos, exploits e terminal. Não tenho estrutura chique, mas tenho **vontade**, **dedicação** e uma porrada de ideia na cabeça.
+I'm 16 and knee-deep in code, exploits, and terminals. I don’t have fancy gear, but I’ve got **grit**, **drive**, and a head full of crazy ideas.
 
-Faço ferramentas de segurança, automação de testes, CLI, script, o que tiver que fazer eu tento (talvez dê errado). Se for do back-end, então, aí é onde eu mais brinco. Mas se o front tiver cagado, eu dou um tapa também.
+I build security tools, test automation, CLI stuff, scripts — whatever needs doing, I give it a shot (it might break, but hey). Back-end is where I have the most fun. But if the front is a mess, I’ll fix that too.
 
-Meu foco é **criar soluções fodas e úteis** pra comunidade de segurança ofensiva — e no futuro, abrir meu próprio negócio na área.
+My goal is to **create badass and useful tools** for the offensive security community — and one day, launch my own company in the field.
 
 ---
 
-> 💬 *"Se não existe uma ferramenta que faça, eu crio. Se existe, eu melhoro."*
+> 💬 *"If there's no tool for it, I build one. If there is, I make it better."*
