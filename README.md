@@ -1,9 +1,8 @@
-<h1 align="center">I'm Juan</h1>
+<h1 align="center">Juan Teixeira dos Reis</h1>
 
 <p align="center">
-   Self-taught in <strong>CyberSecurity</strong><br>
-   Dev of custom tools to explore vulnerabilities<br>
-   Living off curiosity, non-stop learning, and code<br>
+   Self-taught cybersecurity enthusiast and developer<br>
+   Focused on building custom tools for vulnerability exploration<br>
 </p>
 
 ---
@@ -29,7 +28,7 @@
 
 ---
 
-<h3 align="center"> Stack I use to break and build systems</h3>
+<h3 align="center"> Tech Stack – Building and Breaking</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
@@ -45,14 +44,15 @@
 
 ---
 
-###  About me
+### About Me
 
-I'm 16 and knee-deep in code, exploits, and terminals. I don’t have fancy gear, but I’ve got **grit**, **drive**, and a head full of crazy ideas.
+I’m a 16-year-old cybersecurity developer focused on offensive security and automation.  
+My work centers on building command-line tools, scripting solutions, and back-end systems for vulnerability scanning and exploitation.
 
-I build security tools, test automation, CLI stuff, scripts — whatever needs doing, I give it a shot (it might break, but hey). Back-end is where I have the most fun. But if the front is a mess, I’ll fix that too.
+With limited resources but a strong mindset, I’ve developed practical skills by creating my own tools and frameworks from scratch.
 
-My goal is to **create badass and useful tools** for the offensive security community — and one day, launch my own company in the field.
+**My objective is to contribute to the security community by releasing high-quality, efficient tools — and eventually, launch a cybersecurity company focused on offensive research and development.**
 
 ---
 
->  *"If there's no tool for it, I build one. If there is, I make it better."*
+> *"If there's no tool for it, I build one. If there is, I improve it."*
