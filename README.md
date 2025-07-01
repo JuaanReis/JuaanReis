@@ -1,14 +1,12 @@
-<h1 align="center">I'm Juan</h1>
+## # I'm Juan — a 16 y/o security nerd powered by toddy and insomnia
 
-<p align="center">
-   Self-taught cybersecurity enthusiast and developer<br>
-   Focused on building custom tools for vulnerability exploration<br>
-   Waiting for my laptop to explode
-</p>
+   > *Self-taught cybersecurity enthusiast and developer*<br>
+   > *Focused on building custom tools for vulnerability exploration*<br>
+   > *Waiting for my laptop to explode*
 
 ---
 
-<div align="center">
+<div display="flex">
   <a href="https://www.instagram.com/juan._reis/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -25,14 +23,14 @@
 
 ---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuaanReis&show_icons=true&theme=radical&hide_border=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=compact&langs_count=7&theme=radical&hide_border=true">
+<div display="flex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuaanReis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=compact&langs_count=7&theme=tokyonight&hide_border=true">
 </div>
 
 ---
 
-<h3 align="center"> Tech Stack – Building and Breaking</h3>
+# Low budget environment and languages ​​used
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
@@ -49,17 +47,32 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
 
----
-
-### About Me
-
-I’m a 16-year-old cybersecurity developer focused on offensive security and automation.  
-My work centers on building command-line tools, scripting solutions, and back-end systems for vulnerability scanning and exploitation.
-
-With limited resources but a strong mindset, I’ve developed practical skills by creating my own tools and frameworks from scratch.
-
-**My objective is to contribute to the security community by releasing high-quality, efficient tools — and eventually, launch a cybersecurity company focused on offensive research and development.**
+> Looking like this I look badass
 
 ---
 
-> *"If my computer crashes, all it takes is a punch, something you can't do with codes"*
+# Featured Project — <a href="https://github.com/JuaanReis/vorin"><img src="https://img.shields.io/badge/Vorin-Web%20Fuzzer-black?style=for-the-badge&logo=go&logoColor=white" alt="Vorin"></a>
+
+Vorin is a lightning-fast web fuzzing tool for directory discovery and admin panels, designed for offensive security and bug bounty hunters.
+
+- Written in Go
+- Supports proxy, silent mode, and colorized output
+- Inspired by tools like ffuf and gobuster
+- Doesn't try to be ffuf — just tries to be fast.
+
+> *Currently under active development. Feedback and contributions are welcome!*
+
+---
+
+# 👾 Random shits about me
+
+I am a 16-year-old cybersecurity developer focused on offensive security and automation.
+My work focuses on building command-line tools, scripting solutions, and backend systems for vulnerability scanning and exploitation.
+
+With limited resources and a lot of coffee, I have developed practical skills by building my own tools from scratch.
+
+*My goal is to contribute to the security community by releasing high-quality and efficient tools.*
+
+---
+
+> *"If my computer crashes, all it takes is a punch — something you can't debug with code."*
