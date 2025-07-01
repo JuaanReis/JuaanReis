@@ -62,4 +62,4 @@ With limited resources but a strong mindset, I’ve developed practical skills b
 
 ---
 
-> *"If there's no tool for it, I build one. If there is, I improve it."*
+> *"If my computer crashes, all it takes is a punch, something you can't do with codes"*
