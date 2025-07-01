@@ -1,4 +1,4 @@
-## # I'm Juan — a 16 y/o security nerd powered by toddy and insomnia
+## I'm Juan — a 16 y/o security nerd powered by toddy and insomnia
 
    > *Self-taught cybersecurity enthusiast and developer*<br>
    > *Focused on building custom tools for vulnerability exploration*<br>
