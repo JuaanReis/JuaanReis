@@ -69,7 +69,7 @@ Vorin is a lightning-fast web fuzzing tool for directory discovery and admin pan
 I am a 16-year-old cybersecurity developer focused on offensive security and automation.
 My work focuses on building command-line tools, scripting solutions, and backend systems for vulnerability scanning and exploitation.
 
-With limited resources and a lot of coffee, I have developed practical skills by building my own tools from scratch.
+With limited resources and a lot of toddy, I have developed practical skills by building my own tools from scratch.
 
 *My goal is to contribute to the security community by releasing high-quality and efficient tools.*
 
