@@ -31,7 +31,7 @@
 
 <div align="center">
   
-   | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuaanReis&show_icons=true&bg_color=DEG,000,0f0f0f,191970&ring_color=fff&hide_border=true&count_private=true&text_color=fff) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=donut&langs_count=10&bg_color=DEG,191970,0f0f0f,000&hide_border=true&text_color=fff) |
+   | <img width="100%" src="https://github-readme-stats.vercel.app/api?username=JuaanReis&show_icons=true&bg_color=DEG,000,0f0f0f,191970&ring_color=fff&hide_border=true&count_private=true&text_color=fff"/> | <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=donut&langs_count=10&bg_color=DEG,191970,0f0f0f,000&hide_border=true&text_color=fff"/> |
 |---|---|
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuaanReis"></img>
