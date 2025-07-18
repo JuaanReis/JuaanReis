@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=b8e2f4">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=b8e2f4">
 
 ## I'm Juan — a 16 y/o security nerd powered by toddy and insomnia
 
@@ -129,4 +128,6 @@ With limited resources and a lot of toddy, I have developed practical skills by 
      <img src="https://img.shields.io/badge/SR-🌒Text%20Forum-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d0d">
    </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=b8e2f4&descAlign=0&descAlignY=11&section=footer">
 
