@@ -1,127 +1,93 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=163540">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:163540,100:0f0f0f"/>
 
-## I'm Juan — a 16 y/o security nerd powered by toddy and insomnia
-
-   > *Self-taught cybersecurity enthusiast and developer*<br>
-   > *Focused on building custom tools for vulnerability exploration*<br>
-   > *Waiting for my laptop to explode*
-
----
-<p align="center">
-  <a href="https://instagram.com/juan._reis" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/e4405f/instagram-new.png" width="34" style="filter: drop-shadow(0px 0px 4px #e4405f);"/>
-  </a>
-  <a href="https://discord.com/users/1309206929913937923" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/7289da/discord-logo.png" width="34" style="filter: drop-shadow(0px 0px 4px #7289da);"/>
-  </a>
-  <a href="https://linkedin.com/in/juan-teixeira-dos-reis-4423b9338" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" width="34" style="filter: drop-shadow(0px 0px 4px #0077b5);"/>
-  </a>
-  <a href="https://reddit.com/user/nPngu" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ff4500/reddit.png" width="34" style="filter: drop-shadow(0px 0px 4px #ff4500);"/>
-  </a>
-</p>
-
-</p>
-
-> I never post anything, it's just for communication.
----
-
-## GitHub stats
+<br>
 
 <div align="center">
-  
-   | <img width="100%" src="https://github-readme-stats.vercel.app/api?username=JuaanReis&show_icons=true&bg_color=DEG,000,0f0f0f,191970&ring_color=fff&hide_border=true&count_private=true&text_color=fff"/> | <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=donut&langs_count=10&bg_color=DEG,191970,0f0f0f,000&hide_border=true&text_color=fff"/> |
-|---|---|
+  <samp>
+    <b>Self-taught developer</b>
+    <br>
+      Hi, I'm Juan (no surprise there)
+    <br>
+  </samp>
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuaanReis"></img>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJuaanReis&s=21&c=208075&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=@juaanreis&color=000&style=for-the-badge&logo=github" />
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=208075&width=900&size=22&center=true&lines=CLI+Tools+and+Websites+Developer;Python+and+Go+developer+%28almost+one%29;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<details align="center">  
+  <summary>
+    <samp><b>more about me</b></samp>
+  </summary>
+
+  <br>
+
+  <div align="center">
+    <img height=165 src="https://github-readme-stats.vercel.app/api/?username=JuaanReis&show_icons=true&count_private=true&rank_icon=github&theme=nightowl&font=Iosevka"/>
+    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=compact&font=Iosevka&langs_count=16&theme=nightowl"/>
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JuaanReis&theme=sea-dark&hide_border=true&border_radius=0&short_numbers=true&mode=weekly"/>
+    <br><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuaanReis&theme=dark"/>
+  </div>
+
+  <br>
+
+  <div align="center">
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  </div>
+
+</details>
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>You might find me at:</b>
+  </samp>
+  <br><br>
+  
+  <a href="https://instagram.com/juan._reis"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=e4405f"/></a>
+  <a href="https://discord.com/users/1309206929913937923"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=7289da"/></a>
+  <a href="https://linkedin.com/in/juan-teixeira-dos-reis-4423b9338"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077b5"/></a>
+  <a href="https://reddit.com/user/nPngu"><img src="https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit&logoColor=ff4500"/></a>
 
 </div>
 
----
-
-# Low budget environment and languages ​​used
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-</p>
-
-> Looking like this I look badass
-
----
-
-
-# My projects
-> With each star I stop going hungry (my life is in your hands)
-
-## Featured Project — [Vorin](https://github.com/JuaanReis/vorin)
-
-*Vorin is a lightning-fast web fuzzing tool for directory discovery and admin panels, designed for offensive security and bug bounty hunters.*
-
-- Written in Go
-- Supports proxy, silent mode, and colorized output
-- Inspired by tools like ffuf and gobuster
-- Doesn't try to be ffuf — just tries to be fast.
 <br>
 
-> *Currently under active development. Feedback and contributions are welcome!*
+<div align="center">
+  <samp>
+    <b>Featured Projects:</b>
+  </samp>
+  <br><br>
+  <a href="https://github.com/JuaanReis/vorin"><img src="https://img.shields.io/badge/Vorin-⚡Web%20Fuzzer-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=1a1a1a"></a>
+  <a href="https://github.com/JuaanReis/Lynx"><img src="https://img.shields.io/badge/Lynx-🕷️Recon%20Scanner-1f1f1f?style=for-the-badge&logo=python&logoColor=white&labelColor=333"></a>
+  <a href="https://github.com/JuaanReis/Static_room"><img src="https://img.shields.io/badge/StaticRoom-🌒Text%20Forum-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d0d"></a>
+</div>
 
-## Old Project *(discontinued)* — [Lynx](https://github.com/JuaanReis/Lynx)
+<br>
 
-*Lynx is a data scanner and attack tool (XSS, directory scanner (Vorin is best), and website data reader (Smap))*
-- proxy support
-- Cool UI
-- Just give one star and meet vorin
-
-> *This was a python learning project.*
-
-## Probable project - [SR](https://github.com/JuaanReis/Static_room)
-*A random, anonymous, 4chan-style text and image forum that only operates at night (sounds like a cool idea)*
-- Server with php or python (it depends on my energy `and money`)
-- anonymity to be cooler (with restrictions)
-- support the music of the night (if it's phonk I give up my life)
-
-> If you want the idea to go ahead, give it a star in the repository. (or give me money)
----
-
-# 👾 Random shits about me
-
-I am a 16-year-old cybersecurity developer focused on offensive security and automation.
-My work focuses on building command-line tools, scripting solutions, and backend systems for vulnerability scanning and exploitation.
-
-With limited resources and a lot of toddy, I have developed practical skills by building my own tools from scratch.
-
-*My goal is to contribute to the security community by releasing high-quality and efficient tools.*
-
----
-
-> *"If my computer crashes, all it takes is a punch — something you can't debug with code."*
-
----
-<p align="center">
-   <a href="https://github.com/JuaanReis/vorin">
-     <img src="https://img.shields.io/badge/Vorin-⚡Web%20Fuzzer-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=1a1a1a">
-   </a>
-   <a href="https://github.com/JuaanReis/Lynx">
-     <img src="https://img.shields.io/badge/Lynx-🕷️Site%20Recon-1f1f1f?style=for-the-badge&logo=python&logoColor=white&labelColor=333">
-   </a>
-   <a href="https://github.com/JuaanReis/Static_room">
-     <img src="https://img.shields.io/badge/SR-🌒Text%20Forum-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d0d">
-   </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=163540&descAlign=0&descAlignY=11&section=footer">
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:163540,100:0f0f0f&height=100&section=footer"/>
