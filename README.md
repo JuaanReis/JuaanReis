@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=b8e2f4&text=Input%20text">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=b8e2f4">
 
 
 ## I'm Juan — a 16 y/o security nerd powered by toddy and insomnia
