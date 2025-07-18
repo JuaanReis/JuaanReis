@@ -37,10 +37,26 @@
   <br>
 
   <div align="center">
-    <img height=165 src="https://github-readme-stats.vercel.app/api/?username=JuaanReis&show_icons=true&count_private=true&rank_icon=github&theme=nightowl&font=Iosevka"/>
-    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=compact&font=Iosevka&langs_count=16&theme=nightowl"/>
+    <img height=165 src="https://github-readme-stats.vercel.app/api?username=JuaanReis
+&show_icons=true
+&hide_title=true
+&hide_border=true
+&include_all_commits=true
+&count_private=true
+&icon_color=BB86FC
+&text_color=c9d1d9
+&bg_color=0d1117
+&title_color=FF79C6"/>
+    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis
+&layout=compact
+&hide_title=true
+&hide_border=true
+&bg_color=0d1117
+&text_color=c9d1d9
+&title_color=FF79C6
+&icon_color=BB86FC"/>
     <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JuaanReis&theme=sea-dark&hide_border=true&border_radius=0&short_numbers=true&mode=weekly"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JuaanReis&theme=holi-theme&hide_border=true&border_radius=0&short_numbers=true&mode=weekly)](https://git.io/streak-stats"/>
     <br><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuaanReis&theme=dark"/>
   </div>
