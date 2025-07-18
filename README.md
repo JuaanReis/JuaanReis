@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=b8e2f4">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=163540">
 
 ## I'm Juan — a 16 y/o security nerd powered by toddy and insomnia
 
@@ -28,21 +28,10 @@
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuaanReis&show_icons=true&bg_color=DEG,000,0f0f0f,191970&ring_color=fff&hide_border=true&count_private=true&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=donut&langs_count=10&bg_color=DEG,191970,0f0f0f,000&hide_border=true&text_color=fff">
-</p>
-<br>
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=JuaanReis&theme=tokyonight&hide_border=true"/>
-</p>
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuaanReis&style=flat-square&color=blue" alt="visitors"/>
-  <img src="https://img.shields.io/github/followers/JuaanReis?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/stars/JuaanReis?style=social" />
-</p>
+||
+|----------------------------|
+| ![img1](https://github-readme-stats.vercel.app/api?username=JuaanReis&show_icons=true&bg_color=DEG,000,0f0f0f,191970&ring_color=fff&hide_border=true&count_private=true&text_color=fff) |
+| ![img2](https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=donut&langs_count=10&bg_color=DEG,191970,0f0f0f,000&hide_border=true&text_color=fff) ![img3](https://streak-stats.demolab.com?user=JuaanReis&theme=tokyonight&hide_border=true) |
 
 ---
 
@@ -129,5 +118,5 @@ With limited resources and a lot of toddy, I have developed practical skills by 
    </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=b8e2f4&descAlign=0&descAlignY=11&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=163540&descAlign=0&descAlignY=11&section=footer">
 
