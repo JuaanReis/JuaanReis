@@ -61,7 +61,7 @@
 
   <br>
 
-  <div align="center"><br>
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;"><br>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -73,8 +73,18 @@
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </div>
 
-  <br><br>
   <br>
+  <br>
+
+  <div align="center">
+    <samp><b>My lab:</b></samp>
+    <br><br>
+    <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=00adef">
+    <img src="https://img.shields.io/badge/Zorin_OS-000000?style=for-the-badge&logo=zorin&logoColor=0cc1f3&labelColor=000000">
+    <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=557C94&labelColor=000000">
+  </div>
+
+<br>
 
   <div align="center">
     <samp><b>You might find me at:</b></samp>
