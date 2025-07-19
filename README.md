@@ -6,13 +6,13 @@
   <samp>
     <b>Self-taught developer</b>
     <br>
-      Hi, I'm Juan (no surprise there)
+    Hi, I'm Juan (no surprise there)
     <br>
   </samp>
 </div>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJuaanReis&s=21&c=208075&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJuaanReis&s=21&c=208075&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p>
 </div>
 
 <br>
@@ -24,30 +24,44 @@
 <br>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=208075&width=900&size=22&center=true&lines=CLI+Tools+and+Websites+Developer;Python+and+Go+developer+%28almost+one%29;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=208075&width=900&size=22&center=true&lines=CLI+Tools+and+Websites+Developer;Python+and+Go+developer+%28almost+one%29;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
 
-<details align="center">  
+<details align="center">
   <summary>
     <samp><b>more about me</b></samp>
   </summary>
 
   <br>
 
-  <div align="center">
-    <img height=165 src="https://github-readme-stats.vercel.app/api?username=JuaanReis&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&icon_color=BB86FC&text_color=c9d1d9&bg_color=0d1117&title_color=FF79C6"/>
-    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=compact&hide_title=true&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=FF79C6&icon_color=BB86FC"/>
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JuaanReis&theme=holi-theme&hide_border=true&border_radius=0&short_numbers=true&mode=weekly"/>
-    <br><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuaanReis&theme=dark"/>
+ <div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=JuaanReis&show_icons=true&count_private=true&rank_icon=github&theme=chartreuse-dark&font=Iosevka"
+  /> &nbsp; &nbsp; &nbsp; &nbsp;
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuaanReis&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=JuaanReis&theme=chartreuse-dark&card_width=885"
+  />
   </div>
 
   <br>
 
-  <div align="center">
+  <div align="center"><br>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -59,29 +73,22 @@
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   </div>
 
-</details>
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>You might find me at:</b>
-  </samp>
   <br><br>
-  
-  <a href="https://instagram.com/juan._reis"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=e4405f"/></a>
-  <a href="https://discord.com/users/1309206929913937923"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=7289da"/></a>
-  <a href="https://linkedin.com/in/juan-teixeira-dos-reis-4423b9338"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077b5"/></a>
-  <a href="https://reddit.com/user/nPngu"><img src="https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit&logoColor=ff4500"/></a>
+  <br>
 
-</div>
+  <div align="center">
+    <samp><b>You might find me at:</b></samp>
+    <br><br>
+    <a href="https://instagram.com/juan._reis"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=e4405f"/></a>
+    <a href="https://discord.com/users/1309206929913937923"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=7289da"/></a>
+    <a href="https://linkedin.com/in/juan-teixeira-dos-reis-4423b9338"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077b5"/></a>
+    <a href="https://reddit.com/user/nPngu"><img src="https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit&logoColor=ff4500"/></a>
+  </div>
 
 <br>
 
 <div align="center">
-  <samp>
-    <b>Featured Projects:</b>
-  </samp>
+  <samp><b>Featured Projects:</b></samp>
   <br><br>
   <a href="https://github.com/JuaanReis/vorin"><img src="https://img.shields.io/badge/Vorin-⚡Web%20Fuzzer-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8&labelColor=1a1a1a"></a>
   <a href="https://github.com/JuaanReis/Lynx"><img src="https://img.shields.io/badge/Lynx-🕷️Recon%20Scanner-1f1f1f?style=for-the-badge&logo=python&logoColor=white&labelColor=333"></a>
@@ -89,5 +96,8 @@
 </div>
 
 <br>
+
+</details>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:163540,100:0f0f0f&height=100&section=footer"/>
