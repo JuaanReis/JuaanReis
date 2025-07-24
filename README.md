@@ -104,6 +104,8 @@
   <a href="https://github.com/JuaanReis/Lynx"><img src="https://img.shields.io/badge/Lynx-🕷️Recon%20Scanner-1f1f1f?style=for-the-badge&logo=python&logoColor=white&labelColor=333"></a>
   <a href="https://github.com/JuaanReis/Static_room"><img src="https://img.shields.io/badge/StaticRoom-🌒Text%20Forum-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d0d"></a>
   <a href="https://github.com/JuaanReis/Zerolab"><img src="https://img.shields.io/badge/Zerolab-pentest%20playground-1b1b1b?style=for-the-badge&logo=flask&logoColor=white&labelColor=0f0f0f"></a>
+  <a href="https://github.com/JuaanReis/Codivy"><img src="https://img.shields.io/badge/Codivy-repository%20creator-1b1b1b?style=for-the-badge&logo=go&logoColor=white&labelColor=0f0f0f"></a>
+
 </div>
 
 <br>
