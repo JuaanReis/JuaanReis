@@ -12,7 +12,9 @@
 </div>
 
 <div align="center">
-  <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJuaanReis&s=21&c=208075&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p>
+    <br><br>
+
+![](https://count.getloli.com/get/@JuaanReis.github.readme)
 </div>
 
 <br>
