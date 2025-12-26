@@ -6,7 +6,7 @@
   <samp>
     <b>Self-taught developer</b>
     <br>
-    Hi, I'm Juan (no surprise there)
+    Hi, I'm Juan (no suprises)
     <br>
   </samp>
 </div>
