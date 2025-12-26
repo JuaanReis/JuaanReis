@@ -92,7 +92,6 @@
     <a href="https://instagram.com/juan._reis"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=e4405f"/></a>
     <a href="https://discord.com/users/1309206929913937923"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=7289da"/></a>
     <a href="https://linkedin.com/in/juan-teixeira-dos-reis-4423b9338"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0077b5"/></a>
-    <a href="https://reddit.com/user/nPngu"><img src="https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit&logoColor=ff4500"/></a>
   </div>
 
 <br>
